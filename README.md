@@ -10,8 +10,8 @@
 I'm a passionate full stack developer with over 4 years of experience building real-world, scalable web applications. I've worked on high-impact systems in the e-commerce, oil & gas, and logistics domains using:
 
 - 🧠 **JavaScript | TypeScript | React | Next.js**
-- 🔧 **Node.js | NestJS | PostgreSQL | GraphQL**
-- ☁️ **AWS (Lambda, S3, SNS, SQS)** | Serverless Framework
+- 🔧 **Node.js | HapiJS | NestJS | PostgreSQL | GraphQL**
+- ☁️ **AWS (Lambda, S3, SNS, SQS)** | Serverless Framework 
 - 🧪 **Jest | Mocha | TDD | CI/CD pipelines**
 
 Currently, I'm pursuing my Master's in High Integrity Systems while working remotely for **PETRONAS Digital**, contributing to large-scale applications used by thousands.
