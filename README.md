@@ -31,9 +31,12 @@ I'll be publishing generalized versions of enterprise projects I’ve worked on.
 
 ## 📚 Learning & Certifications
 
-- **Think in a Redux Way** (LWS) – [View Credential](https://learnwithsumit.com/certificates/verify/LWSCTXN-DH82T8TV)  
-- **Server-side NodeJS, Express & MongoDB** (Coursera) – [View Credential](https://www.coursera.org/account/accomplishments/verify/HFC6GYRED6UA)  
-- Currently learning: **German (A2 → B1)** and **Kubernetes**
+- **Think in a Redux Way** (LWS) – [View Credential](https://learnwithsumit.com/certificates/verify/LWSCTXN-DH82T8TV)
+- **MERN eCommerce From Scratch** (Udemy) – [View Credential](https://www.udemy.com/certificate/UC-57a830a5-5bd2-49ef-9e02-aa6e7b0eb94c/)
+- **React for Frontend Development with Redux** (Bohubrihi) – [View Credential](https://bohubrihi.com/certificates/bohubrihi-course-completion-certificate-v3-0/?course_id=92744&cert-nonce=607402f8ef)
+- **Server-side NodeJS, Express & MongoDB** (Coursera) – [View Credential](https://www.coursera.org/account/accomplishments/verify/HFC6GYRED6UA)
+- 📖 Currently learning: **German (A2 → B1)**
+
 
 ---
 
