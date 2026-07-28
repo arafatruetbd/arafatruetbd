@@ -14,7 +14,8 @@ I'm a passionate full stack developer with over 4 years of experience building r
 - ☁️ **AWS (Lambda, S3, SNS, SQS)** | Serverless Framework 
 - 🧪 **Jest | Mocha | TDD | CI/CD pipelines**
 
-Currently, I'm pursuing my Master's in High Integrity Systems while working remotely for **PETRONAS Digital**, contributing to large-scale applications used by thousands.
+Currently pursuing an M.Sc. in High Integrity Systems, with previous experience as a Senior Software Engineer at **Patricius IT**, where I worked remotely on full-stack and cloud-based projects for **PETRONAS Digital**. 
+
 
 ---
 
