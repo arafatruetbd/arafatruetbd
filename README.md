@@ -43,7 +43,7 @@ I'll be publishing generalized versions of enterprise projects I’ve worked on.
 
 ## 📫 Let's Connect
 
-- 🌐 [Portfolio](https://arfat.hossain.dev)
+- 🌐 [Portfolio](https://arfathossain.dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/arfat-hossain-a89531148/)
 - 💻 [GitHub](https://github.com/arafatruetbd)
 
